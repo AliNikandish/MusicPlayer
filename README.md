@@ -19,7 +19,8 @@
 <img src="https://raw.githubusercontent.com/AliNikandish/MusicPlayer/main/Screenshot2.png"/>
 
 ## Demo:
-soon
+[Click Here](https://flourishing-meringue-efa69f.netlify.app/)
+
 
 
 ## Installation
